@@ -283,8 +283,8 @@ form a {
 	text-align: left;
 }
 a img {
-	height: 50px;
-	width: 50px;
+	height: 25px;
+	width: 25px;
 	border-radius: 50%;
 	border: 0px solid #021B79
 }
@@ -300,7 +300,7 @@ button {
     height: 40px;
     padding: -1px 0;
     text-align: center;
-    margin: 20px 10px;
+    margin: 6px 10px;
     border-radius: 25px;
     font-weight: bold;
     border: 2px solid #009688;
