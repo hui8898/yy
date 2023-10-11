@@ -225,7 +225,7 @@ body {
 .login_form>h2 {
 	font-size: var(--step-1);
 	font-weight: 700;
-	margin: 0 0 2.5rem;
+	margin: 0 0 0.5rem;
 }
 
 .login_form>h3 {
